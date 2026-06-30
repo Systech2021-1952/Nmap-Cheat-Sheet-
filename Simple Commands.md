@@ -1,6 +1,6 @@
 # NMAP COMMANDS :
 ```bash 
-`Basic Scan`nmap [target]
+`Basic Scan` = nmap [target]
 Specific Port Scan = nmap -p [port] [target]
 Scan Port Range = nmap -p [start_port]-[end_port] [target]
 Aggressive Scan = nmap -A [target]
